@@ -6,11 +6,13 @@ The component does not process any incoming nor JBI message but just expose a si
 
 ## Usage
 
-0. Compile the component or download it from the OW2 Maven repository
-1. Install the component (drop it to the install folder is the easiest way to install)
-2. HTTP GET http://localhost:8812
+1. Compile the component or download it from the OW2 Maven repository
+2. Install the component (drop it to the install folder is the easiest way to install)
+3. HTTP GET http://localhost:8812
 
-    curl http://localhost:8812
+```
+curl http://localhost:8812
+```
 
 --
 @chamerling
